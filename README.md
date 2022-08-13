@@ -18,7 +18,7 @@ _I Hope You Find it Useful and Use it to improve your problem solving Skills_..�
 ## 📽 Demo
 ![demo](https://user-images.githubusercontent.com/88500194/184498923-22969657-3942-4844-aa4e-bcaa8b7d1455.gif)
 
-# Screenshots
+## 📷 Screenshots 
 
 | ![1](https://user-images.githubusercontent.com/88500194/184465658-556b2cbb-ce5a-4cbf-a9ac-986209346dd3.jpg) | ![2](https://user-images.githubusercontent.com/88500194/184465675-85f175a1-d059-46ca-82db-a1189317b65f.jpg) | ![3](https://user-images.githubusercontent.com/88500194/184465680-8c485e16-310f-40f5-bde6-b98c06f468dc.jpg) |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
